@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jadepeck&label=Profile%20views&color=0e75b6&style=flat" alt="jadepeck" /> </p>
 
-- 🔭 I’m currently working on **News-Website**
+- 🔭 I’m currently working on **Food-Deliviery-App**
 
 - 💬 Ask me about **React, Ruby on Rails**
 
 - 📫 How to reach me **jadepeck95@gmail.com**
 
-- ⚡ Fun fact **I play cs2 !**
+- ⚡ Fun fact **I do bouldering sometime !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
